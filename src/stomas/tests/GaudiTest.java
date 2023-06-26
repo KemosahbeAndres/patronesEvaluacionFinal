@@ -5,7 +5,9 @@ import junit.framework.TestSuite;
 
 public class GaudiTest extends TestCase {
 
-    public GaudiTest(){}
+    public GaudiTest(String name){
+        super(name);
+    }
 
     protected void setUp(){}
 

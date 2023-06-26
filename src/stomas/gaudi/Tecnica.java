@@ -1,2 +1,5 @@
-package stomas.gaudi;public class Tecnica {
+package stomas.gaudi;
+
+public enum Tecnica {
+    Acuarela, Oleo, Fresco, Temple, Puntillismo
 }
