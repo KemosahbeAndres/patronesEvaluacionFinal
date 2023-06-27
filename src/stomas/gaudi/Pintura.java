@@ -1,7 +1,4 @@
 package stomas.gaudi;
-
-import java.sql.Time;
-import java.time.Instant;
 import java.util.UUID;
 
 public class Pintura {
